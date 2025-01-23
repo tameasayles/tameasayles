@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tameasayles
 - 👀 I’m interested in Computer Science/Cyber Security
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me tameasayles@gmail.com
 - 😄 Pronouns: she/her
